@@ -1,0 +1,10 @@
+{
+	"name": "network-disco-cordova",
+	"version": "1.0.0",
+	"description": "A Cordova implementation following the W3 draft Network Services Discovery",
+	"author": "rektide de la faye",
+	"license": "ISC",
+	"dependencies": {
+		"q": "^1.0.1"
+	}
+}
